@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Almoguera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2000-01-11T18:30:00.000Z",
+      "notes": "wonderful city",
+      "position": {
+        "lat": "40.3266405033496",
+        "lng": "-2.96630859375"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Measnes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-08T07:04:58.540Z",
+      "notes": "",
+      "position": {
+        "lat": "46.40335863309761",
+        "lng": "1.77978515625"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Unorganized Division No. 18, Saskatchewan",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-09-11T07:05:17.000Z",
+      "notes": "",
+      "position": {
+        "lat": "58.612741223994725",
+        "lng": "-107.40234375000001"
+      },
+      "id": 3
+    }
+  ]
+}
