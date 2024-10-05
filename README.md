@@ -1,9 +1,9 @@
-# World-Wise-Website
+ # World-Wise-Website
 The World-Wise Website is a dynamic, user-centric platform designed to provide users with a wealth of information and resources from around the globe. Built with modern technologies, this website aims to create an engaging and informative experience for users seeking knowledge on various topics.
 
-![Uploading {FB71CB28-8A24-45D2-BC8F-98B0240F118C}.png…]()
+![{3B6249AD-4302-4997-B519-6D5AA812FB89}](https://github.com/user-attachments/assets/ce62f9be-dafa-4061-8827-842bd1265646)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 # Key Features:
 
 Interactive User Interface: Designed for ease of navigation, enabling users to find information quickly and efficiently. The interface allows users to seamlessly browse through cities and countries, enhancing their overall experience.
